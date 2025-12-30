@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SimpleWaterNight (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance)
+  m_Shader: {fileID: 4800000, guid: 8cb8fdb9799be5948bfe7e7bf2d8d278, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _DetailTex:
+        m_Texture: {fileID: 2800000, guid: 9893e2e1ec484934eaf4ad265af3516b, type: 3}
+        m_Scale: {x: 33.333332, y: 33.333332}
+        m_Offset: {x: 0.13964844, y: 0.734375}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9e8a8a375b20cf84faafe9c9cd48e652, type: 3}
+        m_Scale: {x: 20, y: 20}
+        m_Offset: {x: 0.3671875, y: 0.3671875}
+    m_Ints: {}
+    m_Floats:
+      _ColorBias: 0.7
+      _GameTime: 147373.67
+      _HeightFactor: 0.163
+      _HighlightThresholdMax: 200
+      _HighlightThresholdRange: 0.742
+      _TextureBias: 0.611
+      _UseGPU: 1
+      _WaterAlpha: 0.8214286
+      _WaveScale1: 0.05
+      _WaveScale2: 0.25
+    m_Colors:
+      _Color: {r: 0.35686275, g: 0.68235296, b: 0.6313621, a: 0.828}
+      _Color2: {r: 0.3406142, g: 0.5364376, b: 0.66176474, a: 1}
+      _HighlightColor: {r: 1, g: 1, b: 1, a: 0.5}
+      _RegularColor: {r: 1, g: 1, b: 1, a: 0.5}
+      _WaveGain: {r: 0.1, g: 0.29, b: 0, a: 0}
+      _WaveOffset: {r: 1, g: 0.3, b: 0, a: 0}
+      _WaveSpeed: {r: -0.08, g: 0.2, b: 0, a: 0}
+      _Wavelength: {r: 5, g: 0.09, b: 0, a: 0}
+  m_BuildTextureStacks: []

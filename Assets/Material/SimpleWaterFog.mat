@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SimpleWaterFog
+  m_Shader: {fileID: 4800000, guid: bdbe2bfc28e11584687db9b15efb9e9a, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _DetailTex:
+        m_Texture: {fileID: 2800000, guid: 9893e2e1ec484934eaf4ad265af3516b, type: 3}
+        m_Scale: {x: 200, y: 400}
+        m_Offset: {x: 0.41796875, y: 0.125}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9e8a8a375b20cf84faafe9c9cd48e652, type: 3}
+        m_Scale: {x: 20, y: 19.569471}
+        m_Offset: {x: 0.41796875, y: 0.6953125}
+    m_Ints: {}
+    m_Floats:
+      _ColorBias: 0.508
+      _GameTime: 1248.8955
+      _HeightFactor: 0.31
+      _HighlightThresholdMax: 200
+      _HighlightThresholdRange: 0.397
+      _TextureBias: 0.727
+      _UseGPU: 1
+      _WaterAlpha: 0.8214286
+      _WaveScale1: 4
+      _WaveScale2: 1.5
+    m_Colors:
+      _Color: {r: 0.15913136, g: 0.2264151, b: 0.22212039, a: 0.955}
+      _Color2: {r: 0.04049483, g: 0.07589025, b: 0.24528301, a: 1}
+      _HighlightColor: {r: 1, g: 1, b: 1, a: 0.5}
+      _RegularColor: {r: 1, g: 1, b: 1, a: 0.5}
+      _WaveGain: {r: 1, g: 1, b: 1, a: 1}
+      _WaveOffset: {r: 0.66, g: 0.3, b: -0.11, a: 0.69}
+      _WaveSpeed: {r: 0.13, g: 0.2, b: 0.12, a: 0.16}
+      _Wavelength: {r: 250, g: 150, b: 50, a: 43}
+  m_BuildTextureStacks: []
